@@ -25,5 +25,5 @@ Hi, there! I'm Ravi Varma. I'm passionate about using data to extract decision m
 The author is not responsible for any misuse. Read Licence carefully. If you want to contribute to the notebook or any feedback and suggestions are most welcome.
 
 # License
-The MIT License, see the included, see the [License](https://github.com/ravivarmathotakura/AutoML_WebApp_Tool/blob/master/LICENSE) file.
+The MIT License, see the included, see the [License](https://github.com/ravivarmathotakura/AutoML_WebApp_Tool/blob/master/LICENSE){:target="_blank"} file.
 
