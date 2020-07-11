@@ -19,7 +19,7 @@ Hi, there! I'm Ravi Varma. I'm passionate about using data to extract decision m
 
 ### Portfolio: https://ravivarmathotakura.github.io/portfolio/
 
-### Follow Me: @LinkedIn, @GitHub [@LinkedIn](https://www.linkedin.com/in/ravivarmathotakura/ "LinkedIn"), [@GitHub](https://github.com/ravivarmathotakura "GitHub")
+### Follow Me: [@LinkedIn](https://www.linkedin.com/in/ravivarmathotakura/ "LinkedIn_Ravi Varma"), [@GitHub](https://github.com/ravivarmathotakura "GitHub_Ravi Varma")
 
 ## Note
 The author is not responsible for any misuse the program. 
