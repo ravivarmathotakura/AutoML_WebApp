@@ -175,7 +175,7 @@ def main():
     elif choice == "About":
         st.header("About")
         st.markdown('**Data Analysis, Visualization** and Machine Learning **Model Building** in an interactive **WebApp** for Data Scientist/Data Engineer/Business Analyst.  \n\nThe purpose of this app is to create a **quick Business Insights**.  \n\nAutoML WebApp built with **Streamlit framework** using **Pandas** and **Numpy** for Data Analysis, **Matplotlib** and **Seaborn** for Data Visualization, **SciKit-Learn** for Machine Learning Model.')
-        st.markdown('**Demo URL**: https://ravivarmathotakura.github.io/portfolio/')
+        #st.markdown('**Demo URL**: https://automlwebapp.herokuapp.com/')
         st.header("Silent Features")
         st.markdown('* User can browse file(Dataset) in .csv or .txt format.  \n* User can get the details of dataset like No. of rows & Columns, Can View Column list, Select Columns with rows to show, Dataset Summary like count, mean, std, min and max values.  \n* Several Data Visualizations like Correlation with HeatMap, PieChart and Plots like Area, Bar, Line, Box, KDE.  \n* User can built Models like LogisticRegression, LinearDiscriminantAnalysis, KNeighborsClassifier, DecisionTreeClassifier, GaussianNB, SVC.  \n* Model Evaluation with Accuracy, Mean and Standard Deviation.')
         st.header("Author")
