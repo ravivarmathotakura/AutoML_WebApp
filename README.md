@@ -5,7 +5,7 @@ The purpose of this app is to create a **quick Business Insights.**
 
 AutoML WebApp built with **Streamlit framework** using **Pandas** and **Numpy** for Data Analysis, **Matplotlib** and **Seaborn** for Data Visualization, **SciKit-Learn** for Machine Learning Model.
 
-#### Demo URL: https://ravivarmathotakura.github.io/portfolio/
+#### Demo URL: https://automlwebapp.herokuapp.com/
 
 # Silent Features
 * User can browse or upload file(Dataset) in .csv or .txt format.
