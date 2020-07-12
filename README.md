@@ -15,7 +15,7 @@ AutoML WebApp built with Streamlit framework using Pandas and Numpy for Data Ana
 * Model Evaluation with Accuracy, Mean and Standard Deviation.
 
 # Author
-_Hi, there! I'm **Ravi Varma**. I'm passionate about using data to extract decision making insight and help machines learn to make the world a better place. If you liked what you saw, want to have a chat with me about the **Data Science** or **Machine Learning Projects**, **Work Opportunities**, or collaboration, shoot an **email**_
+_Hi, there! I'm **Ravi Varma**. I'm passionate about using data to extract decision making insight and help machines learn to make the world a better place. If you liked what you saw, want to have a chat with me about the **Data Science** or **Machine Learning Projects**, **Work Opportunities**, or collaboration, shoot an **email** at **ravivarmathotakura@gmail.com**_
 
 #### Portfolio: https://ravivarmathotakura.github.io/portfolio/
 
