@@ -1,4 +1,3 @@
-#AutoML WebApp Tool
 **Data Analysis, Visualization** and Machine Learning **Model Building** in an interactive **WebApp** for Data Scientist/Data Engineer/Business Analyst.
 
 The purpose of this app is to create a **quick Business Insights.**
