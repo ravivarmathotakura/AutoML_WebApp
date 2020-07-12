@@ -1,14 +1,14 @@
 # AutoML WebApp Tool
-Data Analysis, Visualization and Machine Learning Model Building in an interactive WebApp for Data Scientist/Data Engineer/Business Analyst.
+**Data Analysis, Visualization** and Machine Learning **Model Building** in an interactive **WebApp** for Data Scientist/Data Engineer/Business Analyst.
 
-The purpose of this app is to create a quick Business Insights.
+The purpose of this app is to create a **quick Business Insights.**
 
-AutoML WebApp built with Streamlit framework using Pandas and Numpy for Data Analysis, Matplotlib and Seaborn for Data Visualization, SciKit-Learn for Machine Learning Model.
+AutoML WebApp built with **Streamlit framework** using **Pandas** and **Numpy** for Data Analysis, **Matplotlib** and **Seaborn** for Data Visualization, **SciKit-Learn** for Machine Learning Model.
 
 ### Demo URL: https://ravivarmathotakura.github.io/portfolio/
 
 # Silent Features
-* User can browse file(Dataset) in .csv or .txt format.
+* User can browse or upload file(Dataset) in .csv or .txt format.
 * User can get the details of dataset like No. of rows & Columns, Can View Column list, Select Columns with rows to show, Dataset Summary like count, mean, std, min and max values.
 * Several Data Visualizations like Correlation with HeatMap, PieChart and Plots like Area, Bar, Line, Box, KDE.
 * User can built Models like LogisticRegression, LinearDiscriminantAnalysis, KNeighborsClassifier, DecisionTreeClassifier, GaussianNB, SVC.
