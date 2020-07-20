@@ -48,7 +48,6 @@ Click==7.0
 click-plugins==1.1.1
 cligj==0.5.0
 cloudpickle==1.3.0
-clyent==1.2.2
 cmdstanpy==0.4.0
 colorama==0.4.3
 colorclass==2.2.0
@@ -101,7 +100,6 @@ glob2==0.7
 gmpy2==2.0.8
 google-auth==1.4.2
 google-auth-oauthlib==0.4.1
-google-colab==1.0.0
 google-pasta==0.2.0
 graphviz==0.14
 greenlet==0.4.15
@@ -143,13 +141,6 @@ json5==0.9.1
 jsonify==0.5
 jsonpickle==1.4.1
 jsonschema==3.2.0
-jupyter==1.0.0
-jupyter-client==5.3.4
-jupyter-console==6.1.0
-jupyter-core==4.6.1
-jupyterlab==1.2.6
-jupyterlab-server==1.0.6
-jupyterthemes==0.20.0
 kafka-python==1.4.7
 kaggle==1.5.6
 Keras==2.3.1
@@ -347,8 +338,6 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.2
 sphinxcontrib-serializinghtml==1.1.3
 sphinxcontrib-websupport==1.2.0
-spyder==4.0.1
-spyder-kernels==1.8.1
 SQLAlchemy==1.3.13
 srsly==1.0.2
 statsmodels==0.11.1
@@ -400,13 +389,3 @@ wget==3.2
 widgetsnbextension==3.5.1
 wordcloud==1.6.0
 wrapt==1.11.2
-wurlitzer==2.0.0
-xlrd==1.2.0
-XlsxWriter==1.2.7
-xlwings==0.17.1
-xlwt==1.3.0
-xmltodict==0.12.0
-yapf==0.28.0
-yarl==1.4.2
-zict==1.0.0
-zipp==2.2.0
