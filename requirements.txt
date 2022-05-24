@@ -117,7 +117,7 @@ sweetviz==1.0a7
 tangled-up-in-unicode==0.0.6
 tensorboard==2.2.2
 tensorboard-plugin-wit==1.7.0
-tensorflow==2.2.0rc4
+tensorflow==2.6.4
 tensorflow-estimator==2.2.0
 termcolor==1.1.0
 terminado==0.8.3
